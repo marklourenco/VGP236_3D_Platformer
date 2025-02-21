@@ -2,6 +2,8 @@
 
 A Unity 3D platformer inspired by the movement style of *Fall Guys*, where players traverse a small forest filled with dynamic obstacles. The goal is to navigate through a whimsical, yet challenging environment, avoiding hazards like crossing rivers with moving logs, spinning trees, and bouncing lily pads. Get ready for fast-paced, fun-filled gameplay!
 
+![3DPlatGif](https://github.com/user-attachments/assets/d6383321-14ed-4f04-9a28-bd8db5f97056)
+
 ## Features
 
 - **Dynamic Obstacles**: Encounter a variety of obstacles like:
