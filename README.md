@@ -41,3 +41,7 @@ A Unity 3D platformer inspired by the movement style of *Fall Guys*, where playe
 ## Game Design
 
 The game focuses on combining light-hearted physics-driven puzzles with fast-paced movement, similar to *Fall Guys*. The movement is forgiving enough to allow fun, while the obstacles present just enough challenge to keep players engaged. The core goal is to provide a delightful, colorful experience with ever-increasing difficulty as players progress.
+
+## Assets
+
+Art assets from the Unity Asset Store.
